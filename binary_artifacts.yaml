@@ -1,3 +1,5 @@
 optConfig:
   optOutStrategy: true
 action: issue
+ignorePaths:
+  - gradle/wrapper/gradle-wrapper.jar
